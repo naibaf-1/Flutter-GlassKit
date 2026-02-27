@@ -10,12 +10,12 @@ class BaseGlassButton extends StatelessWidget {
   final Color gradientStart;
   final Color gradientEnd;
   final double opacity;
-  final Widget icon;
+  final Widget child;
 
   const BaseGlassButton({
     super.key,
     required this.backgroundColor,
-    required this.icon,
+    required this.child,
     required this.gradientStart,
     required this.gradientEnd,
     this.opacity = 0.5,
@@ -54,7 +54,7 @@ class BaseGlassButton extends StatelessWidget {
                     hoverColor: hoverColor,
                     child: Center(child: Padding(
                       padding: const EdgeInsets.only(left: 8.0, right: 8.0),
-                      child: icon,
+                      child: child,
                     )),
                   ),
                 ),

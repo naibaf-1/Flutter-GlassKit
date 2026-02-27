@@ -27,13 +27,13 @@ class IconGlassButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return BaseGlassButton(
       backgroundColor: backgroundColor,
-      icon: Icon(icon),
       gradientStart: gradientStart,
       gradientEnd: gradientEnd,
       opacity: opacity,
       splashColor: splashColor,
       hoverColor: hoverColor,
       onTap: onTap,
+      child: Icon(icon),
     );
   }
 }
