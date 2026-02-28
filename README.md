@@ -11,12 +11,12 @@ There are multiple way to contribute:
 - Contribute Code
 - Improve the documentation
 
-I'm going to add further instructions as soon as I'm done, but please respect the [NOTICE.md](#NOTICE.md)
+I'm going to add further instructions as soon as I'm done, but please respect the [NOTICE.md](https://github.com/naibaf-1/Flutter-GlassKit/blob/main/NOTICE.md)
 
 ## Code Of Conduct
 Please be pacient and respect each other! Since this project isn't completed yet, I didn't add a CODE_OF_CONDUCT.md, but I will do so.
 
 ## License
-This library is licensed under the [Apache 2.0 License](#LICENSE).
+This library is licensed under the [Apache 2.0 License](https://github.com/naibaf-1/Flutter-GlassKit?tab=Apache-2.0-1-ov-file).
 
 *This README will be improved as soon as I'm done with this project. You can reach me by opening an ISSUE. Feel free to contribute!*
