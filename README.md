@@ -11,7 +11,7 @@ There are multiple way to contribute:
 - Contribute Code
 - Improve the documentation
 
-I'm going to add further instructions as soon as I'm done.
+I'm going to add further instructions as soon as I'm done, but please respect the [NOTICE.md](#NOTICE.md)
 
 ## Code Of Conduct
 Please be pacient and respect each other! Since this project isn't completed yet, I didn't add a CODE_OF_CONDUCT.md, but I will do so.
